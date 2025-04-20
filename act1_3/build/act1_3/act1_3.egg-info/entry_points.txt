@@ -1,3 +1,0 @@
-[console_scripts]
-sphere_movement = act1_3.sphere_movement:main
-
