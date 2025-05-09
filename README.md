@@ -9,7 +9,6 @@ Welcome to this collection of **CoppeliaSim simulation projects** integrated wit
 1. **Clone the repository** in your Linux (WSL) environment:
    ```bash
    git clone https://github.com/HarumKim/coppeliasim-ros2.git
-
    
 1. **Launch CoppeliaSim** from your Linux environment and load the desired scene.
    
