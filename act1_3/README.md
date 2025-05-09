@@ -1,0 +1,2 @@
+## Activity 1.3 – Sinusoidal Trajectory Tracking with PID Control
+In this project, a differential-drive robot follows a predefined sinusoidal trajectory using CoppeliaSim and ROS2. A moving sphere defines the desired path by oscillating along a sine function. The robot is equipped with a PID controller that continuously adjusts its linear and angular velocities to minimize the error between its current position and the target trajectory. This setup demonstrates basic closed-loop control and trajectory tracking within a simulation environment.
