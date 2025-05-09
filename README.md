@@ -2,8 +2,6 @@
 
 Welcome to this collection of **CoppeliaSim simulation projects** integrated with **ROS2**, developed in a **WSL (Windows Subsystem for Linux)** environment. These projects were created as part of a robotics course and are focused on simulating and controlling a **differential robot** performing tasks such as trajectory following, object detection, and PID control.
 
----
-
 ## 🚀 How to Run the Projects
 
 1. **Clone the repository** in your Linux (WSL) environment:
@@ -17,8 +15,6 @@ Welcome to this collection of **CoppeliaSim simulation projects** integrated wit
    ros2 launch <package_name> <launch_file_name>.launch.py
 
 4. Start the simulation in CoppeliaSim to begin interaction
-   
----
 
 ## 🛠️ Technologies Used
 🧠 ROS2 (Robot Operating System 2) – Communication and control framework
@@ -33,7 +29,6 @@ Welcome to this collection of **CoppeliaSim simulation projects** integrated wit
 
 👁️ Vision Sensors – Used for object/color detection
 
----
 ## Example
 Here is an example of a simulation running in CoppeliaSim with ROS2:
 
